@@ -11,6 +11,16 @@ This project forecasts solar AC power generation using weather parameters and ti
 - Interactive Streamlit UI
 - Hosted deployment
 
+## Tech Stack
+- Python
+- Scikit-learn
+- Pandas & NumPy
+- Matplotlib
+- Streamlit
+- Streamlit Cloud
+- GitHub
+- LaTeX
+
 ## Dataset
 - Plant_1_Generation_Data.csv
 - Plant_1_Weather_Sensor_Data.csv
